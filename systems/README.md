@@ -74,18 +74,18 @@ Systems designed for massive social graph scale and real-time data processing.
 - **[TAO](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)** - Facebook's distributed data store for the social graph
 - **[Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)** - Decentralized structured storage system
 - **[Gorilla](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf)** - Fast, scalable, in-memory time series database
-- **[Shard Manager](https://scontent.fccj6-1.fna.fbcdn.net/v/t39.8562-6/246905779_1558379681185166_3606269237190124509_n.pdf)** - Generic shard management framework
+- **[Shard Manager](https://research.facebook.com/file/245575980870853/Shard-Manager-A-Generic-Shard-Management-Framework-for-Geo-distributed-Applications.pdf)** - Generic shard management framework
 
 ### Caching & Consensus
 - **[Memcache](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)** - Scaling Memcache at Facebook
 - **[FlexiRaft](https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf)** - Flexible Paxos quorum for cloud storage
 
 ### Data Processing & Analytics
-- **[Hive](https://scontent.fccj6-2.fna.fbcdn.net/v/t39.8562-6/240821631_557956282118593_1903152843934808575_n.pdf)** - Data warehouse infrastructure built on Hadoop
+- **[Hive](https://www.vldb.org/pvldb/vol2/vldb09-938.pdf)** - Data warehouse infrastructure built on Hadoop
 - **[Prophet](https://peerj.com/preprints/3190v2.pdf)** - Forecasting at scale
 
 ### Infrastructure & Networking
-- **[Twine](https://scontent.fccj6-1.fna.fbcdn.net/v/t39.8562-6/240836403_389005185950985_6091829722024266146_n.pdf)** - Unified cluster management system for large-scale services
+- **[Twine](https://www.usenix.org/system/files/osdi20-tang.pdf)** - Unified cluster management system for large-scale services
 - **[ServiceRouter](https://www.usenix.org/system/files/osdi23-saokar.pdf)** - Hyperscale and servicemesh architecture
 - **[Thrift](https://thrift.apache.org/static/files/thrift-20070401.pdf)** - Scalable cross-language services development
 - **[Millisampler](https://dl.acm.org/doi/pdf/10.1145/3517745.3561430)** - Network sampling at scale

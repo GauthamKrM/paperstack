@@ -60,6 +60,7 @@ A curated collection of foundational and cutting-edge research papers in artific
 ### Convolutional Networks
 - **[Going Deeper with Convolutions (Inception/GoogLeNet)](https://arxiv.org/pdf/1409.4842)** - Multi-scale feature extraction
 - **[Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/pdf/1512.03385)** - Skip connections for very deep networks
+- **[Joint-Embedding Predictive Architecture (JEPA)](https://arxiv.org/pdf/2301.08243)** - Self-supervised learning via representation-space prediction
 
 ### Vision Transformers
 - **[An Image is Worth 16x16 Words (ViT)](https://arxiv.org/pdf/2010.11929)** - Applying transformers to computer vision

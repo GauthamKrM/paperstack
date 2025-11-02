@@ -35,6 +35,13 @@ This repo is meant to:
 
 ---
 
+## Disclaimer
+
+This repository contains references and links to research papers that are owned by their respective authors and publishers.  
+Only metadata, summaries, and organizational notes created within this repository are licensed under the [MIT License](./LICENSE).
+
+---
+
 ## License
 
 This repository is licensed under the **MIT License**.  

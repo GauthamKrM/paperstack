@@ -113,6 +113,11 @@ A curated collection of foundational and cutting-edge research papers in artific
 
 ---
 
+## Deployment & MLOps
+- **[Challenges in Deploying Machine Learning: A Survey of Case Studies](https://arxiv.org/pdf/2011.09926)** – A comprehensive review of real-world challenges in deploying ML systems, including data drift, monitoring, reproducibility, and integration with production environments.
+
+---
+
 ## Evaluation & Benchmarks
 
 - **[HellaSwag](https://arxiv.org/pdf/1905.07830)** - Commonsense reasoning benchmark for language models

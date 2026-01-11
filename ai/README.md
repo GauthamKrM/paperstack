@@ -85,6 +85,7 @@ A curated collection of foundational and cutting-edge research papers in artific
 ### Alternative Architectures
 - **[Kolmogorov-Arnold Networks (KAN)](https://arxiv.org/pdf/2404.19756)** - Learnable activation functions on edges
 - **[WaveNet](https://arxiv.org/pdf/1609.03499)** - Generative model for raw audio
+- **[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)** - A framework that introduces hyper-connections constrained to low-dimensional manifolds to improve information flow and structural expressiveness in deep networks
 
 ### Attention Mechanisms
 - **[Flash Attention](https://arxiv.org/pdf/2205.14135)** - Fast and memory-efficient exact attention
